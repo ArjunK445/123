@@ -553,10 +553,14 @@
 # 3. add files to git: git add{file_name}
 # To add all files at once 
 #  command: git add . 
+
 # 4. commit the changes 
-# command: git commit -n "{message}"
-# Push the code to github : git push -u origin {branch_name}
+# command:git commit -m "{message}"
+# Push the code to github : git push -u origin {branch_name} : first push
 # -u : Upstream (Upstream stores the current pushed branch name)
+#  When you keep the upstream, git push pushes to the upstream branch
+# git push origin {branch_name}
+
 
 
 # day 17
