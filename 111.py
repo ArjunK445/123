@@ -555,8 +555,8 @@
 #  command: git add . 
 # 4. commit the changes 
 # command: git commit -n "{message}"
-
-
+# Push the code to github : git push -u origin {branch_name}
+# -u : Upstream (Upstream stores the current pushed branch name)
 
 
 # day 17
