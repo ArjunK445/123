@@ -577,3 +577,4 @@
 
 # In numpy ,we can create an empty array using np.empty()
 #  empty gives garbage value, similar(close value) as 0.
+
